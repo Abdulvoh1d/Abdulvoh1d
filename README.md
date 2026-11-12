@@ -7,11 +7,15 @@
 # Hi there, I'm Abdulvohid 👋
 
 <p align="center">
-  <strong>Frontend Developer crafting polished, accessible, and responsive React experiences.</strong><br />
-  <em>I turn ideas into clean interfaces, practical user flows, and memorable digital products.</em><br />
-  <em>Currently growing into TypeScript, backend engineering, and full-stack product development.</em><br />
-  <em>Focused on thoughtful design, maintainable code, and continuous growth.</em>
+  <strong>Frontend developer turning thoughtful ideas into polished digital experiences.</strong><br />
+  <em>I design responsive React interfaces that feel clear, purposeful, and effortless to use.</em><br />
+  <em>My work blends visual craft, accessible interactions, and maintainable code.</em><br />
+  <em>Now growing toward TypeScript, backend engineering, and full-stack product development.</em>
 </p>
+
+<blockquote align="center">
+  <b>Good products feel simple on the surface and thoughtful underneath.</b>
+</blockquote>
 
 <p align="center">
   <a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00c9a7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
