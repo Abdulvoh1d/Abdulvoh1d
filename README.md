@@ -6,7 +6,7 @@
 
 # Hi there, I'm Abdulvohid! 👋
 
-### Frontend Developer · Growing into Full-Stack Engineering
+### Frontend Developer crafting polished React experiences · Exploring TypeScript & backend
 
 <a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00c9a7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/Abdulvoh1d"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
