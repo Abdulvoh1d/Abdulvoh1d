@@ -9,7 +9,8 @@
 <p align="center">
   <strong>Frontend Developer crafting polished, accessible, and responsive React experiences.</strong><br />
   <em>I turn ideas into clean interfaces, practical user flows, and memorable digital products.</em><br />
-  <em>Currently growing into TypeScript, backend engineering, and full-stack product development.</em>
+  <em>Currently growing into TypeScript, backend engineering, and full-stack product development.</em><br />
+  <em>Focused on thoughtful design, maintainable code, and continuous growth.</em>
 </p>
 
 <p align="center">
@@ -59,6 +60,48 @@ My current journey is taking me beyond the browser: I’m deepening my knowledge
 - 🌐 Portfolio: **[abdulvohidportfolio.netlify.app](https://abdulvohidportfolio.netlify.app/)**
 - 💬 Interested in: **frontend development, product design, React, and full-stack growth**
 - 🤝 Open to: **collaboration, constructive feedback, and ambitious learning projects**
+
+## 🌱 My Developer Journey
+
+I started with a curiosity about how websites work and gradually turned that curiosity into a passion for building interfaces. Today, I enjoy the entire process: understanding a problem, shaping a clear user flow, translating the idea into a responsive layout, and refining the details until the experience feels right.
+
+My goal is not only to write code that works, but to create products that communicate clearly and feel natural to use. I care about visual hierarchy, readable code, reusable components, thoughtful states, and the small interactions that make a digital experience feel complete.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>01</strong><br />Explore the idea<br /><sub>Understand the problem and the people using it.</sub></td>
+    <td align="center" width="33%"><strong>02</strong><br />Build the experience<br /><sub>Turn the concept into a responsive, usable interface.</sub></td>
+    <td align="center" width="33%"><strong>03</strong><br />Refine the details<br /><sub>Improve accessibility, performance, and polish.</sub></td>
+  </tr>
+</table>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | What I’m learning and building |
+| --- | --- |
+| **Frontend** | Reusable React components, responsive layouts, state-driven interfaces, and accessible interactions |
+| **TypeScript** | Stronger types, safer architecture, and more maintainable application code |
+| **Backend** | APIs, data flow, authentication concepts, and the foundations of full-stack products |
+| **Product thinking** | Clear user journeys, useful features, visual hierarchy, and purposeful design decisions |
+
+</div>
+
+## 🗺️ Learning Roadmap
+
+- ✅ Responsive HTML and CSS foundations
+- ✅ JavaScript and interactive browser experiences
+- ✅ React component-based development
+- 🔄 TypeScript and scalable frontend architecture
+- 🔄 APIs, backend fundamentals, and databases
+- 🔜 End-to-end full-stack applications with polished user experiences
+
+## 🧠 What I Value
+
+> **Clarity over complexity. Consistency over shortcuts. Progress over perfection.**
+
+I value interfaces that are easy to understand, code that is easy to continue, and products that solve a real problem. I’m always trying to learn from each project, improve the way I work, and become a more thoughtful engineer with every iteration.
 
 ## 🧰 Tech Stack & Skills
 
