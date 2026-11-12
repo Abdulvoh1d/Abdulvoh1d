@@ -6,11 +6,14 @@
 
 # Hi there, I'm Abdulvohid! 👋
 
-### Frontend Developer ✦ React & JavaScript ✦ Building thoughtful digital experiences
+<p align="center"><strong>Frontend Developer crafting polished, accessible, and responsive React experiences</strong><br />
+<em>Growing into TypeScript and full-stack development · Based in Namangan, Uzbekistan</em></p>
 
 <a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00c9a7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/Abdulvoh1d"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Abdulvoh1d?tab=followers"><img src="https://img.shields.io/github/followers/Abdulvoh1d?style=for-the-badge&color=00c9a7&labelColor=111827" alt="GitHub followers" /></a>
+
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Designing+clean+interfaces;Building+useful+experiences;Learning%2C+creating%2C+improving" alt="Designing clean interfaces, building useful experiences, learning creating improving" /></p>
 
 </div>
 
