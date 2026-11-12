@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:0f766e,70:00c9a7,100:00f5d4&height=220&section=header&text=ABDULVOHID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Builder%20%7C%20Future%20Full-Stack%20Engineer&descAlignY=60&descSize=16" width="100%" alt="Abdulvohid portfolio header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:0f766e,70:00c9a7,100:00f5d4&height=220&section=header&text=ABDULVOHID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Frontend%20Developer%20%7C%20React%20Builder%20%7C%20Future%20Full-Stack%20Engineer&descAlignY=60&descSize=16" width="100%" alt="Abdulvohid portfolio header" />
 
 <img src="https://raw.githubusercontent.com/Abdulvoh1d/Abdulvoh1d/main/avatar.png" width="140" height="140" alt="Abdulvohid branded avatar" />
 
@@ -41,6 +41,14 @@
 </table>
 
 <p align="center"><sub>✦ Building with purpose · Learning in public · Improving every iteration ✦</sub></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><h3>01</h3><b>Interface Craft</b><br /><sub>Clean layouts, responsive systems, and meaningful interactions.</sub></td>
+    <td align="center" width="33%"><h3>02</h3><b>Product Mindset</b><br /><sub>Turning ideas into useful experiences with clear user journeys.</sub></td>
+    <td align="center" width="33%"><h3>03</h3><b>Continuous Growth</b><br /><sub>Learning TypeScript, APIs, and full-stack product engineering.</sub></td>
+  </tr>
+</table>
 
 ## 👨‍💻 About Me
 
@@ -126,13 +134,19 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 <div align="center">
 
-### Core Technologies
+### Frontend Foundation
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,git,github,vscode" alt="HTML CSS JavaScript React TypeScript Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" alt="HTML CSS JavaScript React TypeScript" />
 
-### Exploring & Supporting Tools
+<br />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,figma,npm,netlify" alt="Node.js Express MongoDB Figma npm Netlify" />
+<img src="https://img.shields.io/badge/Responsive%20UI-0d1117?style=for-the-badge&logo=css3&logoColor=00f5d4" alt="Responsive UI" />
+<img src="https://img.shields.io/badge/Accessible%20Interactions-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" alt="Accessible interactions" />
+<img src="https://img.shields.io/badge/Component%20Thinking-0d1117?style=for-the-badge&logo=storybook&logoColor=ff4785" alt="Component thinking" />
+
+### Tools & Full-Stack Direction
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,express,mongodb,figma,npm,netlify" alt="Git GitHub VS Code Node.js Express MongoDB Figma npm Netlify" />
 
 </div>
 
@@ -200,6 +214,8 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 ## 🏆 Profile Highlights
 
+<p align="center"><em>Small steps, consistent practice, and real projects — that’s how I’m building my path forward.</em></p>
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abdulvoh1d&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
@@ -215,6 +231,8 @@ I believe good frontend work is more than making a page look attractive. It is a
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 📫 Let’s Connect
+
+<p align="center"><strong>Have an idea, a challenge, or a project worth building?</strong><br /><em>I’m always open to thoughtful conversations and meaningful collaboration.</em></p>
 
 <div align="center">
 
