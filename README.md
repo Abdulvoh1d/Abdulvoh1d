@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c9a7,100:00f5d4&height=180&section=header&text=Abdulvohid&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Abdulvohid profile banner" />
 
-<img src="https://github.com/Abdulvoh1d.png" width="120" height="120" style="border-radius:50%" alt="Abdulvohid avatar" />
+<img src="https://raw.githubusercontent.com/Abdulvoh1d/Abdulvoh1d/main/avatar.png" width="120" height="120" style="border-radius:50%" alt="Abdulvohid avatar" />
 
 # Hi there, I'm Abdulvohid! 👋
 
