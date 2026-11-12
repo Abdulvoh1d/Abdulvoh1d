@@ -1,12 +1,12 @@
 <h1 align="center">Abdulvohid</h1>
-
 <p align="center">
   <strong>Frontend Developer · Growing into Full-Stack Engineering</strong>
 </p>
-
 <p align="center">
-  I build polished, responsive web experiences with JavaScript and React.<br />
-  Currently strengthening my TypeScript and backend-development skills.
+  I build polished, responsive web experiences with JavaScript and React, with a growing focus on TypeScript and backend development.
+</p>
+<p align="center">
+  <a href="https://abdulvohidportfolio.netlify.app/">Portfolio</a> · <a href="https://github.com/Abdulvoh1d">GitHub</a>
 </p>
 
 <p align="center">
@@ -17,60 +17,32 @@
   <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Currently learning TypeScript" />
 </p>
 
-<hr />
+---
 
-## 👋 About Me
+## About Me
 
-I enjoy turning product ideas into clear, interactive browser experiences. My current work focuses on responsive interfaces, accessible interactions, and practical user flows. I’m growing from frontend development toward full-stack engineering and learning the backend skills needed to build complete applications.
+I enjoy turning product ideas into clear, interactive browser experiences. My work focuses on responsive interfaces, accessible interactions, and practical user flows. I’m growing from frontend development toward full-stack engineering.
 
-## 🧰 Tech Stack & Learning
+- Building with: **JavaScript, React, HTML5, and CSS3**
+- Currently learning: **TypeScript and backend-development fundamentals**
+- Based in: **Namangan Region, Uzbekistan**
+- Portfolio: **[abdulvohidportfolio.netlify.app](https://abdulvohidportfolio.netlify.app/)**
 
-**Building with:** JavaScript, React, HTML5, and CSS3  
-**Currently learning:** TypeScript and backend-development fundamentals
+## Featured Projects
 
-## 🚀 Featured Projects
+| Project | Description |
+| --- | --- |
+| [Galaxy E-Commerce](https://github.com/Abdulvoh1d/galaxy-e-commerce-demo) | Product discovery and browser cart with a simulated checkout. |
+| [TaskFlow Dashboard](https://github.com/Abdulvoh1d/taskflow-dashboard-demo) | Interactive task board with filters and browser-local persistence. |
+| [Social Media Analytics](https://github.com/Abdulvoh1d/social-media-analytics-demo) | Sample metrics, charts, filters, and CSV export. |
+| [E-Learning Platform](https://github.com/Abdulvoh1d/e-learning-platform-demo) | Courses, lesson navigation, quizzes, and local progress tracking. |
+| [API Gateway Console](https://github.com/Abdulvoh1d/restful-api-gateway-demo) | Local request/response simulator for exploring API workflows. |
+| [Crypto Tracker Pro](https://github.com/Abdulvoh1d/crypto-tracker-pro-demo) | Watchlist and charts using illustrative sample market data. |
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Abdulvoh1d/galaxy-e-commerce-demo">Galaxy E-Commerce</a></h3>
-      <p>Product discovery and a working browser cart. Checkout is simulated.</p>
-      <a href="https://galaxy-ecommerce-demo.netlify.app">View live demo</a>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Abdulvoh1d/taskflow-dashboard-demo">TaskFlow Dashboard</a></h3>
-      <p>Interactive task board with filters and browser-local persistence.</p>
-      <a href="https://taskflow-dashboard-demo-668s.netlify.app">View live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Abdulvoh1d/social-media-analytics-demo">Social Media Analytics</a></h3>
-      <p>Sample metrics, charts, filters, and CSV export.</p>
-      <a href="https://social-media-analytics-demo.netlify.app">View live demo</a>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Abdulvoh1d/e-learning-platform-demo">E-Learning Platform</a></h3>
-      <p>Courses, lesson navigation, quizzes, and browser-local progress.</p>
-      <a href="https://elearning-platform-demo.netlify.app">View live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Abdulvoh1d/restful-api-gateway-demo">API Gateway Console</a></h3>
-      <p>A local request/response simulator—not a live API gateway.</p>
-      <a href="https://restful-api-gateway-demo.netlify.app">View live demo</a>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Abdulvoh1d/crypto-tracker-pro-demo">Crypto Tracker Pro</a></h3>
-      <p>Watchlist and charts driven by illustrative sample market data.</p>
-      <a href="https://crypto-tracker-pro-demo.netlify.app">View live demo</a>
-    </td>
-  </tr>
-</table>
+> These projects are independent frontend demos. Simulated flows and sample data are identified in each project.
 
-> The projects above are independent frontend demos. Sample data and simulated flows are identified in each project; they are not live backend services.
+## Let’s Connect
 
-## 🤝 Collaboration
+Open to collaboration, constructive feedback, and learning with other developers.
 
-Open to collaboration, constructive feedback, and learning with other developers. Reach me through [GitHub](https://github.com/Abdulvoh1d).
+[Portfolio](https://abdulvohidportfolio.netlify.app/) · [GitHub](https://github.com/Abdulvoh1d)
