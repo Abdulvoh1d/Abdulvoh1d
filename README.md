@@ -27,6 +27,17 @@
 
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>⚛️ Focus</b><br /><sub>React & UI</sub></td>
+    <td align="center" width="25%"><b>🧠 Learning</b><br /><sub>TypeScript & APIs</sub></td>
+    <td align="center" width="25%"><b>📍 Based in</b><br /><sub>Namangan, Uzbekistan</sub></td>
+    <td align="center" width="25%"><b>🌐 Portfolio</b><br /><sub><a href="https://abdulvohidportfolio.netlify.app/">Visit website</a></sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>✦ Building with purpose · Learning in public · Improving every iteration ✦</sub></p>
+
 ## 👨‍💻 About Me
 
 I’m a frontend developer from **Namangan, Uzbekistan**, passionate about creating digital experiences that feel simple, fast, and intentional. I enjoy transforming product ideas into polished interfaces with thoughtful layouts, responsive behavior, clear interaction patterns, and a strong attention to detail.
@@ -61,6 +72,8 @@ My current journey is taking me beyond the browser: I’m deepening my knowledge
 - 💬 Interested in: **frontend development, product design, React, and full-stack growth**
 - 🤝 Open to: **collaboration, constructive feedback, and ambitious learning projects**
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+
 ## 🌱 My Developer Journey
 
 I started with a curiosity about how websites work and gradually turned that curiosity into a passion for building interfaces. Today, I enjoy the entire process: understanding a problem, shaping a clear user flow, translating the idea into a responsive layout, and refining the details until the experience feels right.
@@ -74,6 +87,8 @@ My goal is not only to write code that works, but to create products that commun
     <td align="center" width="33%"><strong>03</strong><br />Refine the details<br /><sub>Improve accessibility, performance, and polish.</sub></td>
   </tr>
 </table>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 🎯 Current Focus
 
@@ -117,7 +132,11 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 </div>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+
 ## 🚀 Featured Work
+
+<p align="center"><em>A selection of interfaces, dashboards, and product experiments built while learning and growing.</em></p>
 
 <table>
   <tr>
@@ -160,6 +179,8 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 > These are independent frontend demos. Simulated flows and sample data are clearly identified in each project.
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -186,6 +207,8 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 > **Build with intention. Learn continuously. Improve every interaction.**
 
 I believe good frontend work is more than making a page look attractive. It is about clarity, accessibility, performance, and the small details that make an experience feel effortless.
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 📫 Let’s Connect
 
