@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:0f766e,70:00c9a7,100:00f5d4&height=220&section=header&text=ABDULVOHID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Frontend%20Developer%20%7C%20React%20Builder%20%7C%20Future%20Full-Stack%20Engineer&descAlignY=60&descSize=16" width="100%" alt="Abdulvohid portfolio header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:312e81,70:2563eb,100:06b6d4&height=220&section=header&text=ABDULVOHID%20MAXMUDXANOV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Frontend%20Developer%20%7C%20React%20Builder%20%7C%20Growing%20toward%20Full-Stack&descAlignY=60&descSize=16" width="100%" alt="Abdulvohid portfolio header" />
 
 <img src="https://raw.githubusercontent.com/Abdulvoh1d/Abdulvoh1d/main/avatar.png" width="140" height="140" alt="Abdulvohid branded avatar" />
 
@@ -18,16 +18,16 @@
 </blockquote>
 
 <p align="center">
-  <a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00c9a7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Abdulvoh1d"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/Abdulvoh1d?tab=repositories"><img src="https://img.shields.io/badge/Projects-00f5d4?style=for-the-badge&logo=rocket&logoColor=07111f" alt="Projects" /></a>
+  <a href="https://github.com/Abdulvoh1d?tab=repositories"><img src="https://img.shields.io/badge/Projects-a78bfa?style=for-the-badge&logo=rocket&logoColor=07111f" alt="Projects" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=Designing+clean+interfaces;Building+useful+experiences;Learning%2C+creating%2C+improving;Turning+ideas+into+working+products" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=67e8f9&center=true&vCenter=true&width=760&lines=Designing+clean+interfaces;Building+useful+experiences;Learning%2C+creating%2C+improving;Turning+ideas+into+working+products" alt="Typing animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=2&section=header" width="80%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=2&section=header" width="80%" alt="divider" />
 
 </div>
 
@@ -84,7 +84,7 @@ My current journey is taking me beyond the browser: I’m deepening my knowledge
 - 💬 Interested in: **frontend development, product design, React, and full-stack growth**
 - 🤝 Open to: **collaboration, constructive feedback, and ambitious learning projects**
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 🌱 My Developer Journey
 
@@ -100,7 +100,7 @@ My goal is not only to write code that works, but to create products that commun
   </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 🎯 Current Focus
 
@@ -140,7 +140,7 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 <br />
 
-<img src="https://img.shields.io/badge/Responsive%20UI-0d1117?style=for-the-badge&logo=css3&logoColor=00f5d4" alt="Responsive UI" />
+<img src="https://img.shields.io/badge/Responsive%20UI-0d1117?style=for-the-badge&logo=css3&logoColor=a78bfa" alt="Responsive UI" />
 <img src="https://img.shields.io/badge/Accessible%20Interactions-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" alt="Accessible interactions" />
 <img src="https://img.shields.io/badge/Component%20Thinking-0d1117?style=for-the-badge&logo=storybook&logoColor=ff4785" alt="Component thinking" />
 
@@ -150,7 +150,7 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 🚀 Featured Work
 
@@ -197,18 +197,18 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 > These are independent frontend demos. Simulated flows and sample data are clearly identified in each project.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulvoh1d&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00c9a7&text_color=ffffff&ring_color=00c9a7" height="175" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulvoh1d&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=ffffff" height="175" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdulvoh1d&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff&ring_color=38bdf8" height="175" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulvoh1d&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="175" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Abdulvoh1d&theme=dark&hide_border=true&background=0d1117&ring=00c9a7&fire=00f5d4&currStreakLabel=00f5d4" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Abdulvoh1d&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub contribution streak" />
 
 </div>
 
@@ -228,7 +228,7 @@ I value interfaces that are easy to understand, code that is easy to continue, a
 
 I believe good frontend work is more than making a page look attractive. It is about clarity, accessibility, performance, and the small details that make an experience feel effortless.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00c9a7&height=1&section=header" width="55%" alt="section divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="55%" alt="section divider" /></p>
 
 ## 📫 Let’s Connect
 
@@ -236,7 +236,7 @@ I believe good frontend work is more than making a page look attractive. It is a
 
 <div align="center">
 
-<a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-00c9a7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="https://abdulvohidportfolio.netlify.app/"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
 
 <br /><br />
 
@@ -244,12 +244,12 @@ I believe good frontend work is more than making a page look attractive. It is a
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=Abdulvoh1d&style=flat-square&color=00c9a7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Abdulvoh1d&style=flat-square&color=38bdf8" alt="Profile views" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:00c9a7,75:0f766e,100:07111f&height=120&section=footer" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:2563eb,75:312e81,100:050816&height=120&section=footer" width="100%" alt="Profile footer" />
 
 </div>
